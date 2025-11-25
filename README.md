@@ -24,7 +24,7 @@ OBSERVATION :
 
 ![dfd53a0d-0f7c-4730-aa0e-41a5e66973f7](https://github.com/user-attachments/assets/019e4d3b-e4b1-47b4-8154-0471393fd552)
 
-
+<img width="1495" height="883" alt="509396381-4d9b8517-b39e-49d6-bc83-e9f7014f5ba4" src="https://github.com/user-attachments/assets/3123f966-2a04-4435-a05d-75de400e6f11" /># EXP-6
 Positive Displacement
 
 
