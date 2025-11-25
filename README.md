@@ -1,4 +1,4 @@
-<img width="1495" height="883" alt="509396381-4d9b8517-b39e-49d6-bc83-e9f7014f5ba4" src="https://github.com/user-attachments/assets/3123f966-2a04-4435-a05d-75de400e6f11" /># EXP-6
+
 EXP No. :6 			CHARACTERISTICS M OF LVDT
 AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
@@ -26,9 +26,6 @@ OBSERVATION :
 
 <img width="1495" height="883" alt="509396381-4d9b8517-b39e-49d6-bc83-e9f7014f5ba4" src="https://github.com/user-attachments/assets/3123f966-2a04-4435-a05d-75de400e6f11" /># EXP-6
 Positive Displacement
-
-
-<img width="1495" height="883" alt="509396381-4d9b8517-b39e-49d6-bc83-e9f7014f5ba4" src="https://github.com/user-attachments/assets/8e9c42e9-a826-4203-97da-1b8c291f6090" />
 
 
 <img width="1491" height="869" alt="509396168-83dc0f6c-79b3-477f-960c-6c76d3aa836d" src="https://github.com/user-attachments/assets/7df4c097-2c34-4159-950e-8560d89be46d" />
